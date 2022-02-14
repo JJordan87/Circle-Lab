@@ -1,0 +1,15 @@
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\Lab Circle Objects.csproj.AssemblyReference.cache
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\Lab Circle Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\Lab Circle Objects.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\Lab Circle Objects.AssemblyInfo.cs
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\Lab Circle Objects.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\bin\Debug\net6.0\Lab Circle Objects.exe
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\bin\Debug\net6.0\Lab Circle Objects.deps.json
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\bin\Debug\net6.0\Lab Circle Objects.runtimeconfig.json
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\bin\Debug\net6.0\Lab Circle Objects.dll
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\bin\Debug\net6.0\ref\Lab Circle Objects.dll
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\bin\Debug\net6.0\Lab Circle Objects.pdb
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\Lab Circle Objects.dll
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\ref\Lab Circle Objects.dll
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\Lab Circle Objects.pdb
+C:\Users\Jon\source\repos\Lab Circle Objects\Lab Circle Objects\obj\Debug\net6.0\Lab Circle Objects.genruntimeconfig.cache
